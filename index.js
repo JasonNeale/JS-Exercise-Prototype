@@ -128,6 +128,7 @@ Baby.prototype.play = function() {
   return `Playing with ${this.favoriteToy}`;
 };
 
+// #######################
 /* 
   TASK 4
 
